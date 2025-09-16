@@ -6,9 +6,9 @@ to understand which features affect flight prices and to build predictive models
 
 ---
 
-## 🔍 Project Workflow  
+# 🔍 Project Workflow  
 
-### 1. Data Collection (Web Scraping)  
+# 1. Data Collection (Web Scraping)  
 Scraped flight prices from **Kiwi** and **Momondo** using Python and stored the raw datasets.  
 
 ### 2. Data Cleaning & Preprocessing  
